@@ -11,9 +11,13 @@
 
 ## 🧑‍💼 About Me
 
-I am a seasoned **Cloud Architect and Full Stack Engineer** with over **18 years of experience** in enterprise software development. My journey spans across diverse roles and organizations—from leading-edge startups to Fortune 500 enterprises—delivering scalable, cloud-native solutions across **AWS, Azure, and GCP** platforms.
+I am a seasoned Cloud Architect and Full Stack Engineer with over 18 years of experience in enterprise software development. My journey spans across diverse roles and organizations—from leading-edge startups to Fortune 500 enterprises—delivering scalable, cloud-native solutions across **AWS, Azure, and GCP** platforms.
 
-Over the last decade, I have specialized in **cloud architecture and serverless computing on AWS**, building modern applications using **Lambda, API Gateway, Step Functions, DynamoDB, S3**, and **Kubernetes (EKS)**. I bring deep proficiency in **Java, Node.js, Python, Go, and TypeScript**, and a strong foundation in DevOps, IaC, microservices, and event-driven architectures.
+Over the last decade, I have specialized in 
+- **cloud architecture and serverless computing on AWS**
+- Building modern applications using **Lambda, API Gateway, Step Functions, DynamoDB, S3**, and **Kubernetes (EKS)**.
+- I bring deep proficiency in **Java, Node.js, Python, Go, and TypeScript**
+- A strong foundation in DevOps, IaC, microservices, and event-driven architectures.
 
 ---
 
