@@ -1,5 +1,5 @@
 # Srinivasarao Gurram 
-– Cloud Architect | Full Stack Engineer | AWS Expert
+## – Cloud Architect | Full Stack Engineer | AWS Expert
 
 📧 **Email**: srinivasarao.gurram@gmail.com  
 📞 **Phone**: +1 925-922-4115  
